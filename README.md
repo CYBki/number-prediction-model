@@ -1,0 +1,5 @@
+# number-prediction-model
+number prediction model with ml and PyQt5
+download the handwriting generated(MNIST) dataset
+we have written our program to convert the downloaded files to numpy arrays in order to make them available
+we have taken our numpy arrays from our python code, where we will perform model training.
