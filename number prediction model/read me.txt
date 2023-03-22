@@ -1,0 +1,3 @@
+el yazısında oluşan(MNIST) veri setini indir
+indirdiğimiz dosyaları kullanılabilir hale getirebilmek için numpy arraylerine dönüştürecek programımızı yazdık
+model eğitimi gerçekleştireceğimiz python kodumuzun içerisinden numpy arraylerimizi aldık.
